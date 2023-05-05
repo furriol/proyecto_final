@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 hola
-=======
+
 Estos son otros cambios
->>>>>>> 16d37ad95285c990308d8dc202d4e3e70e7d7dc5
